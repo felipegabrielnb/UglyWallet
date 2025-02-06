@@ -5,7 +5,7 @@ UglyWallet is a project created solely for personal learning purposes. It is a s
 To get started with UglyWallet, follow these steps:
 1. Clone the repository to your local machine.
 2. Modify the project to connect to a node for production use(if you wish).
-3. Run the application with 'pyton main.py'.
+3. Run the application with 'python main.py'.
 
 ## Usage
 - This project is intended for educational purposes only.
